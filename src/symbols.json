@@ -1,0 +1,23 @@
+[
+    {"name": "and", "alt_name": "conjunction", "symbol": "∧", "TeX": "\\wedge"}, 
+    {"name": "or", "alt_name": "disjunction", "symbol": "∨", "TeX": "\\vee"},
+    {"name": "not", "alt_name": "negation", "symbol": "¬", "TeX": "\\neg{}"},
+    {"name": "not", "alt_name": "negation", "symbol": "~", "TeX": "\\sim"},
+    {"name": "universal quantifier", "alt_name": "for all", "symbol": "∀", "TeX": "\\forall"},
+    {"name": "existential quantifier", "alt_name": "there exists", "symbol": "∃", "TeX": "\\exists"},
+    {"name": "empty set", "alt_name": "", "symbol": "∅", "TeX": "\\emptyset"},
+    {"name": "subset", "alt_name": "", "symbol": "⊆", "TeX": "\\subseteq"},
+    {"name": "proper subset", "alt_name": "", "symbol": "⊂", "TeX": "\\subset"},
+    {"name": "set intersection", "alt_name": "", "symbol": "∩", "TeX": "\\cap"},
+    {"name": "set union", "alt_name": "", "symbol": "∪", "TeX": "\\cup"},
+    {"name": "cartesian product", "alt_name": "", "symbol": "×", "TeX": "\\times"},
+    {"name": "belongs to", "alt_name": "", "symbol": "∈", "TeX": "\\in"},
+    {"name": "does not belong to", "alt_name": "", "symbol": "∉", "TeX": "\\in"},
+    {"name": "set of integers", "alt_name": "", "symbol": "ℤ", "TeX": "\\mathbb{Z}"},
+    {"name": "set of real numbers", "alt_name": "", "symbol": "ℝ", "TeX": "\\mathbb{R}"},
+    {"name": "therefore", "alt_name": "", "symbol": "∴", "TeX": "\\therefore"},
+    {"name": "left ceiling", "alt_name": "", "symbol": "⌈", "TeX": "\\lceil"},
+    {"name": "right ceiling", "alt_name": "", "symbol": "⌉", "TeX": "\\rceil"},
+    {"name": "left floor", "alt_name": "", "symbol": "⌊", "TeX": "\\lfloor"},
+    {"name": "right floor", "alt_name": "", "symbol": "⌋", "TeX": "\\rfloor"}
+]
