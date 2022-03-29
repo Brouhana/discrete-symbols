@@ -2,6 +2,8 @@
 
 A quickly put together React app to easily copy and paste symbols and notation commonly used in a discrete math course.
 
+<img width="1687" alt="Screen Shot 2022-03-28 at 9 21 42 PM" src="https://user-images.githubusercontent.com/8935419/160522029-df4f1e95-4867-4ba2-a307-08ed860d9514.png">
+
 ### symbols.json
 
 To add or modify an existing symbol, edit `symbols.json`
