@@ -1,12 +1,15 @@
 # discrete-symbols
-An easy way to copy and paste symbols and notation commonly used in discrete math.
+
+A quickly put together React app to easily copy and paste symbols and notation commonly used in a discrete math course.
 
 ### symbols.json
-To add or modify an existing symbol, edit `symbols.json`, then create a pull request with your changes ([https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request](GitHub Docs: Creating a pull request)).
 
-### Run locally
+To add or modify an existing symbol, edit `symbols.json`
+
+### Run on localhost:3000
+
 This project was based on create-react-app. To run locally:
 
-1. Git clone
+1. Clone the repository
 2. Install dependencies `$ yarn install`
-3. Run `$ yarn start`
+3. `$ yarn start`
